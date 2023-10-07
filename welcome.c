@@ -2,4 +2,6 @@
 void main()
 {
   printf("Welcome...!!!");
+  
+  printf("Home...!!!");
 }
